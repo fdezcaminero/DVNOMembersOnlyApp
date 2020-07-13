@@ -12,6 +12,10 @@
 - Terminal
 - Rubocop
 
+## Live Demo!
+
+- Live Demo: https://pacific-dawn-91592.herokuapp.com/
+
 ## Getting Started
 **The project was designed to test capalities of using Devise Gem for authentication in Ruby on Rails**
 
